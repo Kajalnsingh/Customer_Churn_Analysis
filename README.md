@@ -53,6 +53,7 @@ Readme with project explanation
 
 🚀 Conclusion
 This project showcases a full data pipeline – from raw data ingestion to interactive dashboarding and predictive modeling. It reflects practical business analyst and data science skills using real-world tools and techniques
+This is the glimpse of my report:
 
 ![image](https://github.com/user-attachments/assets/d36bf4e7-130e-48af-9ce1-22c3bdb47287)
 ![image](https://github.com/user-attachments/assets/c99cb72d-95ef-43df-ab23-817769bd59be)
